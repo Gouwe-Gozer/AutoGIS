@@ -1,3 +1,8 @@
+# Note by Gouwe-Gozer
+25/04/2025
+
+I am not a student nor a teacher and in no way affiliated with the Helsinki university. I am just someone that wants to learn more about GIS automation in Python. I tried to access the course material on  [Automating GIS Processes](https://autogis-site.readthedocs.io/en/latest/) from the Helsinki University.I found that the environment.yml file was missing in the [newest AutoGIS repository](https://github.com/Automating-GIS-processes/site) and that the site was not updated for the current year (yet). I was very happy to find a [fork by Remy-mjcf](https://github.com/Remy-mjcf/AutoGIS) that contained a precise guide on updating the autoGIS environment. This Gouwe-Gozer/AutoGIS repository is a fork from the Remy-mjcf version. I updated the environment.yml file according to the instructions. The environment.yml file should be up te date for 25/04/2025, and can be used to create an environment for the course work. A big thanks to Helsinki university for publishing all this course material. All text below belongs to the original repository by the Helsinki University.
+
 # Automating GIS-processes
 
 This repository contains the source files for the course [Automating GIS
